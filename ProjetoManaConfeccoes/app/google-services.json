@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008110063386",
+    "project_id": "projeto-mana-bce31",
+    "storage_bucket": "projeto-mana-bce31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008110063386:android:501ce212112c493b3926a3",
+        "android_client_info": {
+          "package_name": "br.com.projetomanaconfeccoes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjKyrE2s39_Dd70-exNKDS9kX_myckdhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
